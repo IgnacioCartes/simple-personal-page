@@ -3,3 +3,7 @@
 
 # GIMP .xcf files folder
 assets/gimp_files
+
+# NPM related files
+package-lock.json
+node_modules
