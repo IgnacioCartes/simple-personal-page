@@ -1,0 +1,5 @@
+# .DS_Store Mac OS folder metadata files
+.DS_Store
+
+# GIMP .xcf files folder
+assets/gimp_files
