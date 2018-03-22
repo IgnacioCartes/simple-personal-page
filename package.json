@@ -1,0 +1,23 @@
+{
+  "name": "simple-personal-page",
+  "version": "1.0.0",
+  "description": "Example for a small, single-page personal website using Skeleton boilerplate.",
+  "main": "index.html",
+  "dependencies": {
+    "skeleton-css": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnacioCartes/simple-personal-page.git"
+  },
+  "author": "ignacio.cartes.w@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgnacioCartes/simple-personal-page/issues"
+  },
+  "homepage": "https://github.com/IgnacioCartes/simple-personal-page#readme"
+}
